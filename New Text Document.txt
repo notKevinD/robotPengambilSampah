@@ -1,0 +1,8 @@
+Raspberry Pi
+Motor Dc
+Motor Stepper
+Stepper Driver
+Relay
+Stepdown
+Vacum Motor Dc 
+Raspberry PI kamera
